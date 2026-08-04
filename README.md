@@ -29,7 +29,7 @@ This GitHub profile contains projects, scripts and documentation related to Post
 
 ## Contact
 
-- LinkedIn: *(кейин LinkedIn URL қўямиз)*
+- LinkedIn: www.linkedin.com/in/xayot-abdumalikov-2aa75a2b2
 
 <!--
 **abdumalikofh/abdumalikofh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
